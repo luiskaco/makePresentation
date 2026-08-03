@@ -1,0 +1,9 @@
+# Directorios temporales
+extracted_pptx/
+
+# Logs
+*.log
+
+# Carpetas del sistema
+.DS_Store
+Thumbs.db
