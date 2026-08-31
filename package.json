@@ -1,0 +1,19 @@
+{
+  "name": "presentacion-herramientas-ia",
+  "version": "1.0.0",
+  "description": "Guía Práctica de Herramientas de IA - Orange LATAM",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "npx serve -l 8080"
+  },
+  "keywords": [
+    "orange-latam",
+    "ia",
+    "presentation",
+    "dashboard"
+  ],
+  "author": "Orange LATAM",
+  "license": "ISC"
+}
